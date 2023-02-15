@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @renesha-matthews
-- 👀 I’m interested in front-end development, UX/UI design, and app development 
+- 👀 I’m interested in front-end development, UX/UI design, and product design 
 - 🌱 I’m currently learning front-end (and some back-end) languages and tools
 - 💞️ I’m looking to collaborate on web development and UX projects
 - 📫 How to reach me: reneshamatthews9@gmail.com
